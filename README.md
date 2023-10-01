@@ -6,7 +6,7 @@ Entro-CLI is a CLI client for Entro.
 
 - Clone the repository.
 - At the root of the repository, run `go build`.
-- To get the list of operations: `./entro-cli -h`.
+- To get the list of operations: run `./entro-cli -h`.
 
 ### Usage
 
